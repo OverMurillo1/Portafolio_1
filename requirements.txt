@@ -3,4 +3,3 @@ pandas
 pydeck
 streamlit
 plotly
-st_pages import Page,add_page_title, show_pages
